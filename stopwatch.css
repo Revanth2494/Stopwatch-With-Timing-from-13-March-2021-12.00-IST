@@ -1,0 +1,37 @@
+.display{
+    color: white;
+    height:fit-content;
+    font-size: x-large;
+    font-style: oblique;
+    text-align: center;
+    
+}
+.controls{
+    text-align: center;
+}
+#time{
+    display: inline-block;
+    margin-right: 10px;
+}
+button{
+    cursor: pointer;
+    border: 1px solid #43af8f;
+    background-color: transparent;
+    height: 40px;
+    width: 80px;
+    color: white;
+    font-size: 1.5em;
+    border-radius: 0.5em;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.stopwatch {
+    width: 600px;
+    margin: 1em auto;
+    padding: 2em;
+    border-radius: 0.5em;
+    box-shadow: 2px 3px 7px 2px rgb(0 0 0 / 2%);
+}
